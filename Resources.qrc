@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Res">
+        <file>Image/add.jpg</file>
+        <file>Image/BKbuUq8VEpI.jpg</file>
+        <file>Image/BKbuUq8VEpI.png</file>
+        <file>Image/calendar.png</file>
+        <file>Image/car.png</file>
+        <file>Image/delete.jpg</file>
+        <file>Image/edit.jpg</file>
+        <file>Image/edit.png</file>
+        <file>Image/EdtfZTVTEt4.jpg</file>
+        <file>Image/EdtfZTVTEt4.png</file>
+        <file>Image/plus.png</file>
+        <file>Image/remove.png</file>
+        <file>Image/rqeNql-cVbg.jpg</file>
+        <file>Image/rqeNql-cVbg.png</file>
+        <file>Image/search.jpg</file>
+    </qresource>
+</RCC>
